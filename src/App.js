@@ -9,7 +9,7 @@ import Footer from './components/Footer';
 function App() {
   return (
     <div className="App">
-    <h1>Flikpart</h1>
+    <h1>E-KART</h1>
     <Header/>
     <Routes>
       <Route path='/' element={<Home/>}/>
